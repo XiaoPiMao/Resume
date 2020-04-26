@@ -8,15 +8,17 @@ Email：a391626@gmail.com		GitHub：[XiaoPiMao](https://github.com/XiaoPiMao)
 > ***我是程式旅行者，程式的開發應用是一次次不同島嶼的探險，只要還享受著旅行的日子，能不斷挑戰超越各時期的我，就會一直旅行著***
 
 ## 瑞艾德資訊(2016/07-2019/10)
-* 使用PTC Windchill (Java Web)，實作並導入生命週期管理系統 (PLM)，客戶多為3C電子業
+* 使用參數科技 PTC Windchill (Java Web)，實作並導入生命週期管理系統 (PLM)
 * 負責模塊：文件管理、料BOM管理、設變管理、資料轉移、資料串接
 * 工作項目：程式開發 (主要)，Demo、客戶教育訓練、需求訪談、開發規劃與評估和寫規格文件
-* Windchill主要開發：業務流程、報表和使用Windchill MVC架構開發擴充功能
-* 系統整合：使用資料庫、JMS或RESTful API
-* 小部分開發引入TDD開發模式
+* Windchill主要開發：業務流程開發、報表和使用Windchill MVC架構開發擴充功能
+* 系統整合：用資料庫搭配排程或用JMS (Active MQ) 達成系統間傳遞資料和溝通 (e.x.串接ERP)
+* 用JBoss RESTEasy開發 RESTful API，並用Swagger產出API文件
+* 重視程式碼的可讀性、可維護性和可擴充性，小部分開發引入TDD開發模式
+* 開發簡易的ORM模組優化系統整合程式開發，使用執譯器模式優化取號和品名合成
 * 專案經驗累積後，客戶提出需求時，不只能評估可行性和合理性，還可以提供相關建議
 * 與同事、對方IT或Key User的溝通很重要，需求要做鉛筆，做成橡皮擦，橡皮擦再好也是白費
-* 一味地滿足客戶需求並不是對的事情，還要考慮到時程、Windchill 原設計架構、需求的合理性和可行性，這些要能達到一個平衡點
+* 一個需求要考量開發時程、Windchill 原設計架構、合理性和可行性，這些要能達到一個平衡點
 * 專案：寶德 (DEXIN)、成霖 (GLOBE UNION)、三諾 (3Nod)、神達電腦 (MiTAC)、迪芬尼聲學 (TYMPHANY)、沅聖 (GoldTek)、 研揚 (AAEON)
 
 ## 資策會Java班(2016)
