@@ -1,36 +1,32 @@
 # 柏佳緯 (Felis)<img src="src\image\headshot.jpg" alt="headshot" style="height:110px;float:right;"/>
+**主要開發**：後端    **主要程式語言**：Java、SQL  
+**生日**：1991-09-11    **運動**：桌球、慢跑、越野跑、健行、爬山  
+**居住地**：台北市大安區    **手機**：0933947103    **Email**：a391626@gmail.com 
 
-主要開發：後端		主要程式語言：Java、 Python、HTML、JavaScript、SQL
-生日：1991-09-11			運動：桌球、滑雪、慢跑
-居住地：台北市大安區	手機：0933947103	
-Email：a391626@gmail.com		GitHub：[XiaoPiMao](https://github.com/XiaoPiMao)
+## 中華系統整合 (2020/05-2024/02)
+* **監理站車輛管理系統** (Java Web)，管理車輛的生命週期從新車領牌到車輛報廢
+* 客戶：監理站人員、車輛製造商、公路總局
+* 主要負責功能：車籍查詢、編配車號、新車領牌、重新領牌、車輛製造商介接
+* 系統採用 **Spring** + **MyBatis** + **ZK** 的 **MVVM** 架構，ZK 框架讓後端人員省去 JS、Ajax 編寫 
+* 批次採用 **Spring Batch** 搭配 **Quartz** 排程，專注在資料的讀取、處理、寫出三個部分
+* 對外介接使用 **Web Service** 開 API 或是介接系統觸發批次處理，完成後將結果檔傳回介接系統
+* 系統由 JDK 1.6 升級至 JDK 1.8，修補弱點掃描
+* 開發補助子系統 ACH 串接、微型電動自行車領牌
+* 開發優化代辦人領取多面牌流程的新功能，獲得 2023 監理站內部創新提案第一名
 
-## 中華系統整合（2020/05-)
-* 系統：車輛管理系統 (Java Web)，管理車輛的生命週期從新領牌到車輛報廢
-* 主要客戶：監理站人員、車輛製造商、公路總局
-* 工作項目：根據公文和需求維護和開發前後端、批次處理、報表、對外介接
-* 前端框架：ZK，MVVM 架構，方便後端人員開發前端，Ajax 全部交由 ZK 管控
-* 後端框架：Spring + MyBatis
-* 對外介接 1：Web Service
-* 對外介接 2：介接系統觸發批次處理後，將結果檔傳回介接系統，再由介接系統回傳給客戶
-* 批次：Spring Batch + Quartz
-* 報表：iReport
-
-## 瑞艾德資訊(2016/07-2019/10)
-* 使用參數科技 PTC Windchill (Java Web)，實作並導入生命週期管理系統 (PLM)
+## 瑞艾德資訊 (2016/07-2019/10)
+* 使用參數科技 PTC Windchill (Java Web)，實作導入**生命週期管理系統** (**PLM**)
+* 客戶：寶德、成霖、三諾、神達電腦、迪芬尼聲學、沅聖、研揚
+* 工作項目：程式開發 (主要)、Demo、客戶教育訓練、需求訪談、開發規劃評估、寫規格文件
 * 負責模塊：文件管理、料BOM管理、設變管理、資料轉移、資料串接
-* 工作項目：程式開發 (主要)，Demo、客戶教育訓練、需求訪談、開發規劃與評估和寫規格文件
-* Windchill 主要開發：業務流程開發、報表和使用 Windchill MVC 架構開發擴充功能
-* 系統整合：用資料庫搭配排程或用 JMS (Active MQ) 達成系統間傳遞資料和溝通 (e.x.串接 ERP )
-* 用 JBoss RESTEasy 開發 RESTful API，並用 Swagger 產出 API 文件
-* 開發簡易的 ORM 模組優化系統整合程式開發，使用執譯器模式優化取號和品名合成，小部分開發引入 TDD 開發模式
-* 專案經驗累積後，客戶提出需求時，不只能評估可行性和合理性，還可以提供相關建議
-* 專案：寶德 (DEXIN)、成霖 (GLOBE UNION)、三諾 (3Nod)、神達電腦 (MiTAC)、迪芬尼聲學 (TYMPHANY)、沅聖 (GoldTek)、 研揚 (AAEON)
+* 用 **Windchill MVC** 客製化功能、簽核流程開發、中介資料表搭配排程與 ERP 等外部系統串接
+* 用 **Java Reflection** 開發簡易 **ORM** 模組，增加對客製化表格的開發速度
+* 引入 **RESTful API** 用 **Swagger** 產出 API 文件，方便與其他系統串接
+* 引入 **ActiveMQ**，顯著減少流程與外部系統串接時定時讀取中介資料表的負擔
 
-## 資策會 Java 班(2016)
-* 學習 Java 物件導向程式設計、有事件導性概念的程式(網頁前端、Android)、資料庫設計、SQL 語法、聯繫資料庫，寫出動態網站
-* 學習 MVC 架構和 Spring、Hibernate 框架
-* 擔任期末專題小隊長，開發Life Editor，社交融合人生目標的成就平台，負責統整、問題處裡、聊天室、留言和按讚功能
+## 資策會 Java 班 (2016)
+* 學習 Java 物件導向程式設計、JS 事件導向程式設計、SQL、資料庫設計、Spring MVC、Hibernate
+* 擔任專題組長，開發 Life Editor 人生目標的成就社交平台，負責統整、問題處裡、聊天室、留言和按讚功能
 
 ## 學生時代
 * 建國中學
@@ -38,6 +34,5 @@ Email：a391626@gmail.com		GitHub：[XiaoPiMao](https://github.com/XiaoPiMao)
 * 國立高雄大學東亞語文學系日語組
 
 ## 其他經歷
-* 北海道交換學生一學期
 * 證照： JLPT N1、TOEIC 690分 (2015)、OCA Java SE7、 OCP Java SE7
-* 興趣自學：Spring Boot、Clean Code、Design Pattern、資料結構、演算法、Python
+* 稍微接觸：Spring Boot、Python、Pandas、JS、DDD、Design Pattern、Mockito、Clean Code
