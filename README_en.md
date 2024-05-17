@@ -1,6 +1,6 @@
 ## BO JIAWEI (Felis)<img src="src\image\headshot.jpg" alt="headshot" style="height:110px;float:right;"/>
 **Main Dev**: Back-End    **Main Language**: Java, SQL  
-**Birth**: 1991-09-11    **Sports**: Table Tennis, Jogging, Trail Running, Hiking
+**Birth**: 1991-09-11    **Sports**: Table Tennis, Jogging, Trail Running, Hiking  
 **Location**: Taipei City    **Phone**: +886933947103   **Email**: a391626@gmail.com  
 
 #### CHUNGHWA SYSTEM INTEGRATION (2020/05-2024/02)
