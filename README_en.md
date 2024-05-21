@@ -30,4 +30,4 @@
 #### Education and Other Experience
 * National University of Kaohsiung Asian Languages and Literature - Japanese (Graduated).
 * Certificate: JLPT N1, TOEIC 690 points(2015), OCA Java SE7, OCP Java SE7.
-* A Liitle Bit: Spring Boot, Python, Pandas, JS, DDD, Design Pattern, Mockito, Clean Code.
+* A Liitle Bit: Spring Boot、Junit、Mockito、Jenkins、Redis、Python、Pandas、JS、Design Pattern.
