@@ -35,4 +35,4 @@
 
 ## 其他經歷
 * 證照： JLPT N1、TOEIC 690分 (2015)、OCA Java SE7、 OCP Java SE7
-* 稍微接觸：Spring Boot、Junit、Mockito、Jenkins、Redis、Python、Pandas、JS、Design Pattern
+* 稍微接觸：Spring Boot、Junit、Mockito、Jenkins、Redis、Python、JS、Design Pattern
